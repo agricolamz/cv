@@ -1,0 +1,212 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Medium Length Professional CV
+% LaTeX Template
+% Version 2.0 (8/5/13)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original author:
+% Trey Hunner (http://www.treyhunner.com/)
+%
+% Important note:
+% This template requires the resume.cls file to be in the same directory as the
+% .tex file. The resume.cls file provides the resume style used for structuring the
+% document.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass{resume} % Use the custom resume.cls style
+\usepackage[english,russian]{babel}   %% загружает пакет многоязыковой вёрстки
+\usepackage{fontspec}      %% подготавливает загрузку шрифтов Open Type, True Type и др.
+\defaultfontfeatures{Ligatures={TeX},Renderer=Basic}  %% свойства шрифтов по умолчанию
+\setmainfont[Ligatures={TeX,Historic},
+SmallCapsFont={Brill},
+SmallCapsFeatures={Letters=SmallCaps}]{Brill} %% задаёт основной шрифт документа
+\setsansfont{Comic Sans MS}                    %% задаёт шрифт без засечек
+\setmonofont{Courier New}
+\usepackage{indentfirst}
+
+
+\usepackage[left=0.75in,top=0.6in,right=0.75in,bottom=0.6in]{geometry} % Document margins
+
+\name{George Moroz} % Your name
+\address{agricolamz@hse.ru}
+\address{https://github.com/agricolamz/}
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+%	EDUCATION SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Education}
+
+{\bf Lomonosov Moscow State University} \hfill {\em 2012--2015} \\ 
+doctoral studies (PhD)\\
+Research on \textit{Phonology of Circassian languages}\\
+{\bf Russian State University for Humanities, Moscow} \hfill {\em 2007--2012} \\ 
+Specialist in Linguistics
+
+{\bf Additional:}
+\begin{itemize}
+\item {\bf The incumbent member of Literary Translation Seminar ``Transatlantic''} \hfill {\em 2011--\ldots}
+\item {\bf Centre of Polish Language and Culture University of Warsaw} \hfill {\em August 2010}
+\item {\bf School of Polish Language and Culture University of Silesia} \hfill {\em August 2009}
+\end{itemize}
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	WORK EXPERIENCE SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Experience}
+\begin{rSubsection}{Linguistic Convergence Laboratory}{February 2018 --- present}{junior research fellow}{Moscow}
+\item Data Analysis, Phonetics, Linguistic maps, Caucasian languages
+\end{rSubsection}
+\begin{rSubsection}{National Research University Higher School of Economics}{September 2013 --- present}{lecturer, senior lecturer}{Moscow}
+\item Statistics, Data Analysis, R, \LaTeX, ELAN, Phonetics and Phonology, Polish, Writing systems at alias
+\end{rSubsection}
+\begin{rSubsection}{Summer school (of Russian reporter), seminar on Data Analysis}{August 2017 --- present}{lecturer}{Tver Oblast}
+\item R, Automatic Text Analysis, Frequentist inference, Bayesian inference, Phonetic Data Analysis
+\end{rSubsection}
+\begin{rSubsection}{Inalco}{January 2018}{lecturer}{Paris}
+\item R, linguistic cartography
+\end{rSubsection}
+\begin{rSubsection}{Seminar on Data Analysis}{January 2018}{lecturer}{Moscow}
+\item R, Data Analysis, Automatic Text Analysis
+\end{rSubsection}
+\begin{rSubsection}{National Research University Higher School of Economics}{January 2015 --- January 2018}{researcher}{Moscow}
+\item Phonetics, Phonology, Linguistic maps, Caucasian languages
+\end{rSubsection}
+\begin{rSubsection}{National Research University Higher School of Economics}{October 2017}{lecturer}{Saint Petersburg}
+\item R, Inter-rater agreement measures
+\end{rSubsection}
+\begin{rSubsection}{Russian State University for Humanities}{September 2014 --- January 2016}{lecturer}{Moscow}
+\item Phonetics and Phonology
+\end{rSubsection}
+\begin{rSubsection}{Russian State University for Humanities}{February 2014 --- May 2014}{lecturer}{Moscow}
+\item Polish
+\end{rSubsection}
+%------------------------------------------------
+
+\end{rSection}
+\clearpage
+\begin{rSection}{Linguistic Fieldtrips}
+
+\begin{rSubsection}{Circassian languages --- 11}{2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018}{}{}
+\item The Republic of Adygea, Krasnodar Krai, the Karachay-Cherkess Republic, the Kabardino-Balkar Republic
+\end{rSubsection}
+\begin{rSubsection}{Dargwa and Andi --- 10}{2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018}{}{}
+\item The Republic of Dagestan
+\end{rSubsection}
+\begin{rSubsection}{Abaza --- 3}{2017, 2018, 2019}{}{}
+\item The Karachay-Cherkess Republic
+\end{rSubsection}
+\begin{rSubsection}{Nanai language --- 1}{2013}{}{}
+\item Khabarovsk Krai
+\end{rSubsection}
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	TECHNICAL STRENGTHS SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Technical Strengths}
+
+\begin{tabular}{ @{} >{\bfseries}l @{\hspace{6ex}} l }
+Programming & R, Praat, GitHub, html\\
+Geographic Information Systems & Google Earth, Google Maps, R\\
+Language analysis & Praat, ELAN, EXMARaLDA, Audacity, FieldWorks, SplitsTree\\
+Document Creation & \LaTeX, Beamer, Office\\
+\end{tabular}
+
+\end{rSection}
+
+\begin{rSection}{Linguistic Packages}
+\begin{tabular}{ @{} >{\bfseries}l @{\hspace{6ex}} l }
+lingtypology  & Moroz G. (2017). lingtypology: easy mapping for Linguistic Typology. \\
+& <URL: https://CRAN.R-project.org/package=lingtypology>.\\
+lingcorpora & Moroz G. (2017). lingcorpora: API for linguistic corpora.\\
+& <URL: https://CRAN.R-project.org/package=lingcorpora>.\\
+lingphonology & Moroz G. (2018). lingphonology: automatic phonological description. \\
+& <URL: https://CRAN.R-project.org/package=lingphonology>.\\
+\end{tabular}
+
+\end{rSection}
+
+\begin{rSection}{Linguistic Databases}
+\begin{itemize}
+\item The Circassian Consonants Correspondences Database (CCCD) \\ <URL: https://agricolamz.github.io/cccd/> 
+\item Iconicity patterns in Sign Languges (IPSL) \\ <URL: https://sl-iconicity.shinyapps.io/iconicity\_patterns/>
+\item The World Consonant Alternation Database (WCAD) \\ <URL: https://agricolamz.github.io/wcad/>
+\item The World Writing System Database (WWSD) \\ <URL: https://agricolamz.github.io/wwsd/>
+\item Daghestanian Sound Database \\ <URL: https://daghestanian-sound-database.herokuapp.com/>
+\item Лексика адыгских идиомов на территории РФ <URL: https://agricolamz.github.io/adyghe\_atlas/>
+\end{itemize}
+\end{rSection}
+
+\begin{rSection}{Domains}
+field linguistics, language documentation, phonology, phonetics, writing systems, numerals, linguistic geography, languages of the Caucasus, Balto-Slavic languages
+\end{rSection}
+
+\begin{rSection}{Publications}
+\begin{enumerate}
+\item Мороз Г. А. Замечания о морфологии числительных в адыгейском языке // В кн.: Полевые исследования студентов РГГУ: Этнология, фольклористика, лингвистика, религиоведение. Вып. VI. М. : РГГУ, 2011. С. 230--245.
+\item Мороз Г. А. Адыгский, адыгейский, бесленеевский, уляпский: представления носителей уляпского говора о своем языке // В кн.: «Народная лингвистика»: взгляд носителей языка на язык. Тезисы докладов международной научной конференции / Отв. ред.: Е. Головко. СПб. : Нестор-История, 2012. С. 42--44.
+\item Мороз Г. А. Консонантная система уляпского говора в сопоставлении с аналогами других диалектов адыгских языков // В кн.: Полевые исследования студентов РГГУ: Этнология, фольклористика, лингвистика, религиоведение. Вып. VII / Под общ. ред.: Л. Г. Жукова, О. А. Казакевич, В. Л. Кляус, Н. А. Козлова, Ю. А. Ландер, А. Б. Мороз, Ю. В. Филиппов. М. : РГГУ, 2012. С. 193--200.
+\item Мороз Г. А. Ударение в уляпском говоре кабардинского языка // В кн.: Проблемы языка: Сборник научных статей по материалам Первой конференции-школы «Проблемы языка: взгляд молодых ученых» (20-22 сентября 2012 г.). М. : Институт языкознания РАН, 2012. С. 190--204.
+\item Мороз Г. А. Фонология и фонетика консонантной системы мегебского языка в сопоставлении с другими даргинскими идиомами // В кн.: Сборник научных статей по материалам Второй конференции-школы «Проблемы языка: взгляд молодых ученых». М. : Институт языкознания РАН, 2013. С. 277--288. (в печати)
+\item Moroz G. Stress in Mehweb: A Lexically Filled Optimality Theory Approach / NRU HSE. Series WP BRP "Linguistics". 2014. No. WP BRP 19/LNG/2015.
+\item Мороз Г. А. Именное ударение в даргинских языках // В кн.: Актуальные вопросы теоретической и прикладной фонетики. Сборник статей к юбилею О.Ф. Кривновой. М. : БукиВеди, 2014. С. 245--269.
+\item Мороз Г. А. Особенности систем числительных языков Кавказа // В кн.: Логический анализ языка: Числовой код в разных языках и культурах / Отв. ред.: Н. Д. Арутюнова; под общ. ред.: Н. Д. Арутюнова; науч. ред.: Н. Д. Арутюнова, М. Л. Ковшова, С. Ю. Бочавер. М. : УРСС, 2014. С. 171--182.
+\item Мороз Г. А. Структура составных числительных языков кавказа в типологической перспективе: сложение // Вестник Московского государственного гуманитарного университета им. М.А. Шолохова. Филологические науки. 2014. № 1. С. 85--100.
+\item Мороз Г. А. Адыгские идиомы в Турции: от первых описаний до собственной письменности // Вестник РГГУ. Серия «Филологические науки. Языкознание»/ Московский лингвистический журнал. 2015. С. 44--60.
+\item Кюсева М. В., Мороз Г. А. Лексика со значением формы и размера в Русском Жестовом Языке // В кн.: Специальные образовательные условия и качество профессиональной подготовки лиц с ограниченными возможностями здоровья. Новосибирский государственный технический университет, 2015. С. 120--127.
+\item Ландер Ю. А., Аркадьев П. М., Мороз Г. А. Об исследовании бжедугского диалекта адыгейского языка // В кн.: Полевые исследования студентов РГГУ: Этнология, фольклористика, лингвистика. Вып. X / Под общ. ред.: П. М. Аркадьев, О. А. Казакевич, В. Л. Кляус, Н. А. Козлова, Ю. А. Ландер, Е. В. Левкиевская, А. Б. Мороз, Ю. В. Филиппов. М. : РГГУ, 2015. С. 183--201.
+\item Багирокова И. Г., Ландер Ю. А., Мороз Г. А. Понятие основы и морфологический анализ адыгейской словоформы // В кн.: IV Международный симпозиум лингвистов-кавказоведов. Вопросы структуры основы и корня иберийско-кавказских языков. Тб. : [б.и.], 2015. С. 107--110.
+\item Мороз Г. А. Адвербиальные конструкции временной дистрибуции в балто-славянских языках: ареальное и корпусное исследование // В кн.: Acta Linguistica Petropolitana. Труды Института лингвистических исследований РАН. (Том XII, часть 1) / Отв. ред.: Н. Казанский. Т. XII. Ч. 1. СПб. : Наука, 2016. С. 151--167.
+\item  Dobrushina N., Daniel M., Ganenkov D., Moroz G., Barylnikova D., Kustova M. A., Kozhukhar A. A., Lander Y., Sheyanova M., Chechuro I. Mehweb. Selected essays on phonology, morphology and syntax / Ed. by M. Daniel, D. Ganenkov, N. Dobrushina. Berlin : Language Science Press, [in press].
+\item Moroz G. Phonology of Mehweb, in: Mehweb. Selected essays on phonology, morphology and syntax / Ed. by M. Daniel, D. Ganenkov, N. Dobrushina. Berlin : Language Science Press, [б.г.]. Ch. 3. P. 22--34, [in press].
+\item Мороз Г. А. Cкорости речи носителей кубанского диалекта кабардино-черкесского языка: устный дискурс vs. чтения текста // Томский журнал лингвистических и антропологических исследований. 2017. №  2. С. 9--17.
+\item Moroz G., Martynova A. Uvular consonants in Languages of the Caucasus, in: Historical Linguistics of the Caucasus: Book of abstracts. Paris, 12-14 April, 2017 / Историческое изучение языков Кавказа. Тезисы докладов Международной научной конференции. Париж, 12--14 апреля 2017 г. / Сост.: Т. А. Майсак. Махачкала : ИЯЛИ ДНЦ РАН, 2017. P. 150--153.
+\item Мороз Г. А., Зибер И. А. К типологии систем сибилянтов: параметры вариативности [s] // В кн.: Четырнадцатая конференция по типологии и грамматике для молодых исследователей. Тезисы докладов. (Санкт-Петербург, 23--26 ноября 2017 г.). СПб. : Издательство Нестор-История, 2017. С. 113--115.
+\item Багирокова И. Г., Ландер Ю. А., Мороз Г. А. О выражении множественных непрямых объектов в адыгейском глаголе // В кн.: Становление и развитие младописьменных языков. К 120-летию со дня рождения выдающегося языковеда, основоположника адыгейского языкознания Д.А. Ашхамафа: материалы Международной научной конференции (Майкоп, 21--23 июня 2017 г.). Майкоп : [б.и.], 2017. С. 23--27.
+\item  Мороз Г. А., Романова К. И. 'Искать' и 'найти' в абазинском языке // В кн.: ЕВРика! Сборник статей о поисках и находках к юбилею Е.В. Рахилиной / Под общ. ред.: Д. А. Рыжова, Н. Р. Добрушина, А. А. Бонч-Осмоловская, А. С. Выренкова, М. В. Кюсева, Б. В. Орехов, Т. И. Резникова. М. : Лабиринт, 2018. С. 100-104.
+\item Moroz G., Plaskovitskaya A. A., Rudnev P. Automatic detection of natural phonological classes in Russian Sign Language / NRU HSE. Series WP BRP "Linguistics". 2018. No. 74.
+\item Kimmelman V., Klezovich A., Moroz G. IPSL: A Database of Iconicity Patterns in Sign Languages. Creation and Use, in: Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018). P. : European Language Resources Association (ELRA), 2018. Ch. 102. P. 4230-4234.
+\item Dobrushina N., Daniel M., Ganenkov D., Sheyanova M., Chechuro I., Kustova M. A., Kozhukhar A. A., Lander Y., Barylnikova D., Moroz G. Mehweb. Selected essays on phonology, morphology and syntax / Ed. by M. Daniel, D. Ganenkov, N. Dobrushina. Language Science Press, 2018. (in press)
+\item Verhees S., Moroz G. Time and time again: The evolution of ‘time’-nouns into temporal clause markers in three Daghestanian languages, in: Пятнадцатая Конференция по типологии и грамматике для молодых исследователей. Тезисы докладов (Санкт-Петербург, 22-24 ноября 2018 г.). СПб. : ИЛИ РАН, 2018. doi P. 212-214.
+\item Мороз Г. А. Возможен ли отказ от выборки? Байесовский подход к типологическому исследованию // В кн.: Пятнадцатая Конференция по типологии и грамматике для молодых исследователей. Тезисы докладов (Санкт-Петербург, 22-24 ноября 2018 г.). СПб. : ИЛИ РАН, 2018. doi С. 91-94.
+\item Мороз Г. А., Ферхеес С. Классы в Зило: экспериментальные данные андийского языка // В кн.: Малые языки в большой лингвистике. Сборник трудов конференции 2017. М. : Буки Веди, 2018. Гл. 22. С. 145-151. (in press)
+\item Мороз Г. А. Маркирование актантов многоместных предикатов в польском языке // В кн.: Валентностные классы глаголов и их вариативность в разноструктурных языках / Отв. ред.: С. С. Сай. СПб. : Наука, 2018. (in press)
+\item Аркадьев П. М., Ландер Ю. А., Летучий А. Б., Мороз Г. А., Тестелец Я. Г. Типологически ориентированное описание абазинского языка: проспект исследований // Вестник Карачаево-Черкесского государственного университета. 2018. № 44. С. 95-100.
+\item  Dobrushina N., Kozhukhar A. A., Moroz G. Gendered multilingualism in highland Daghestan: story of a loss // Journal of Multilingual and Multicultural Development. 2019. Vol. 40. No. 2. P. 115-132.
+\item Мороз Г. А. Слоговая структура адыгейского языка // Вопросы языкознания. 2019. № 2. С. 82-95.
+\item  Зибер И. А., Мороз Г. А. Исследование акустической вариативности s методом главных компонент // Вестник Новосибирского государственного университета. Серия: Лингвистика и межкультурная коммуникация. 2019. № 1. С. 49-64.
+\item Moroz George, Verhees Samira Variability in noun classes assignment in Zilo Andi: experimental data // Iran and the Caucasus. 2019 (in press)
+\end{enumerate}
+\end{rSection}
+
+\begin{rSection}{Translations}
+\item Филипович К. Да не знает левая рука твоя... // В кн.: Тени. М. : Знак, 2014. С.~43--62, ISBN: 978--5--7516--1228--3 (K. Filipowicz (1960) Niech nie wie lewica..., z książki „Biały ptak”, 48--65)
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	EXAMPLE SECTION
+%----------------------------------------------------------------------------------------
+
+%\begin{rSection}{Section Name}
+
+%Section content\ldots
+
+%\end{rSection}
+
+%----------------------------------------------------------------------------------------
+
+\end{document}
