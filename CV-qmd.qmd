@@ -1,0 +1,177 @@
+---
+title: CV
+format:
+  quarto-cv-pdf: default
+author: George Moroz
+date: last-modified
+address: Moscow, Russia
+email: 
+  - agricolamz@gmail.com; 
+  - agricolamz@hse.ru
+fontsize: 11pt
+mainfont: Brill
+github: agricolamz
+orcid: 0000-0003-1990-6083
+fontawesome: yes
+validate-yaml: false
+editor_options: 
+  chunk_output_type: console
+---
+
+## Education
+
+- **Russian State University for Humanities, Moscow**, specialist in Linguistics \hfill 2007 --- 2012
+- **Lomonosov Moscow State University**, doctoral studies (PhD) \hfill 2012 --- 2015
+- **HSE University** \hfill 2012 --- 2015
+    - PhD on “Some questions of Circassian segmental and suprasegmental phonology and phonetics”
+
+## Additional Education
+
+- School of Polish Language and Culture University of Silesia \hfill August 2009
+- Centre of Polish Language and Culture University of Warsaw \hfill August 2010
+- The incumbent member of Literary Translation Seminar “Transatlantic” \hfill 2011 --- 2017
+
+## Lecturing and research
+
+- **Linguistic Convergence Laboratory (HSE)** \hfill February 2018 --- present
+    - junior research fellow, research fellow, head of the laboratory (Data Analysis, Phonetics, Linguistic maps, Caucasian languages, Russian)
+- **HSE University** \hfill September 2013 --- present
+    - lecturer, senior lecturer, associate professor (Statistics, Data Analysis, R, \LaTeX, ELAN, Phonetics and Phonology, Polish, Writing systems et alia)
+- **Summer school on Data Analysis (in Tver Oblast)** \hfill August 2017 --- August 2020
+    - lecturer, co-director (R, Automatic Text Analysis, Frequentist inference, Bayesian inference, Phonetic Data Analysis, Shiny, Rmarkdown)
+- **Laboratory of the Languages of the Caucasus (HSE)** \hfill January 2015 --- January 2018
+    - junior research fellow (Phonetics, Phonology, Linguistic maps, Caucasian languages)
+- **Russian State University for Humanities** \hfill September 2014 --- January 2016
+    - lecturer (Phonetics)
+- **Russian State University for Humanities** \hfill February 2014 --- May 2014
+    - lecturer (Polish)
+
+## Grants
+
+- FFLI [Foundation for Fundamental Linguistic Research] \hfill 2011 --- 2012
+    - researcher; research grant No. A-46 to Nina Sumbatova (primary researcher): Grammatical description of Dargwa dialects
+- RFFI [Russian Foundation for Basic Research] \hfill 2015 --- 2017
+    - researcher; research grant No. 15-06-07434a to Yury Lander (primary researcher): Computer-based documentation of a polysynthetic language
+- RFFI [Russian Foundation for Basic Research] \hfill 2018 --- 2020
+    - researcher; research grant No. 18-012-00852 to Michael Daniel (primary researcher): The Andi morphosyntax in a typological perspective
+- RSF [Russian Science Fondation] \hfill 2023 --- 2024
+    - primary researcher; research grant No. 24-28-01097 to George Moroz (primary researcher): Variation in spoken corpora of dialectal and regional varieties of Russian
+
+## Domains
+
+field linguistics, language documentation, phonetics, phonology, writing systems, linguistic geography, languages of the Caucasus, computational linguistics, corpus linguistics, computer instruments for linguistic research, morphological transducers, low-resource NLP
+
+## Linguistic fieldtrips
+
+- Circassian languages (11) \hfill 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018
+    - The Republic of Adygea, Krasnodar Krai, the Karachay-Cherkess Republic, the Kabardino-Balkar Republic
+- Dargwa, Andi, Rutul (14) \hfill 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2022, 2023
+    - The Republic of Dagestan
+- Abaza (4) \hfill 2017, 2018, 2019, 2021
+    - The Karachay-Cherkess Republic
+- Nanai language (1) \hfill 2013
+    - Khabarovsk Krai
+
+## Technical strengths
+
+- **Programming**: R (main language), Praat, Git, GitHub Classroom, bash, make, html, css
+- **Geographic Information Systems**: Google Earth, Google Maps, R packages
+- **Language Annotation**: Praat, ELAN, EXMARaLDA, Audacity, FieldWorks, lexd, twol, R packages
+- **Document Creation**: Quarto, RMarkdown, markdown, LaTeX, Beamer, Office
+- **Statistical Inference**: Frequentist and Bayesian approaches in R
+
+## Packages
+
+- **lingtypology**: Moroz G. (2017). lingtypology: easy mapping for Linguistic Typology.
+    - <https://CRAN.R-project.org/package=lingtypology>
+- **phonfieldworks**: Moroz G. (2019). Phonetic fieldwork and experiments with phonfieldwork package.
+    - <https://CRAN.R-project.org/package=phonfieldwork>
+- **checkdown**: Moroz G. (2020). Create check-fields and check-boxes with checkdown
+    - <https://CRAN.R-project.org/package=checkdown>
+- **lingglosses**: Moroz, G. (2022) lingglosses: Linguistic glosses and semi-automatic list of glosses creation.
+    - <https://CRAN.R-project.org/package=lingglosses>
+
+## Created online courses
+
+- R для лингвистов: программирование и анализ данных
+    - <https://openedu.ru/course/hse/RLING/>
+- Инструментальная фонетика: компьютерные методы сбора и анализа данных
+    - <https://www.coursera.org/learn/instrumental-phonetics>
+
+## Student supervision
+
+- 19 bachelor/master theses
+- 48 bachelor/master term papers
+
+## Hackathons
+
+- SpendingSprint by ClearSpending: II place \hfill 2018.10.06
+- MosFinData by ClearSpending and Moscow department of finance: Special thanks \hfill 2018.10.20–21
+- II Hackathon by Novaya gazeta: III place \hfill 2019.04.27–28
+- I online hackathon Devs against the machine: II place \hfill 2019.12.13–15
+
+## Publications
+
+
+(@) Мороз Г. А. Замечания о морфологии числительных в адыгейском языке // В кн.: Полевые исследования студентов РГГУ: Этнология, фольклористика, лингвистика, религиоведение. Вып. VI. М. : РГГУ, 2011. С. 230--245.
+(@) Мороз Г. А. Адыгский, адыгейский, бесленеевский, уляпский: представления носителей уляпского говора о своем языке // В кн.: «Народная лингвистика»: взгляд носителей языка на язык. Тезисы докладов международной научной конференции / Отв. ред.: Е. Головко. СПб. : Нестор-История, 2012. С. 42--44.
+(@) Мороз Г. А. Консонантная система уляпского говора в сопоставлении с аналогами других диалектов адыгских языков // В кн.: Полевые исследования студентов РГГУ: Этнология, фольклористика, лингвистика, религиоведение. Вып. VII / Под общ. ред.: Л. Г. Жукова, О. А. Казакевич, В. Л. Кляус, Н. А. Козлова, Ю. А. Ландер, А. Б. Мороз, Ю. В. Филиппов. М. : РГГУ, 2012. С. 193--200.
+(@) Мороз Г. А. Ударение в уляпском говоре кабардинского языка // В кн.: Проблемы языка: Сборник научных статей по материалам Первой конференции-школы «Проблемы языка: взгляд молодых ученых» (20-22 сентября 2012 г.). М. : Институт языкознания РАН, 2012. С. 190--204.
+(@) Мороз Г. А. Фонология и фонетика консонантной системы мегебского языка в сопоставлении с другими даргинскими идиомами // В кн.: Сборник научных статей по материалам Второй конференции-школы «Проблемы языка: взгляд молодых ученых». М. : Институт языкознания РАН, 2013. С. 277--288. (в печати)
+(@) Moroz G. Stress in Mehweb: A Lexically Filled Optimality Theory Approach / NRU HSE. Series WP BRP "Linguistics". 2014. No. WP BRP 19/LNG/2015.
+(@) Мороз Г. А. Именное ударение в даргинских языках // В кн.: Актуальные вопросы теоретической и прикладной фонетики. Сборник статей к юбилею О.Ф. Кривновой. М. : БукиВеди, 2014. С. 245--269.
+(@) Мороз Г. А. Особенности систем числительных языков Кавказа // В кн.: Логический анализ языка: Числовой код в разных языках и культурах / Отв. ред.: Н. Д. Арутюнова; под общ. ред.: Н. Д. Арутюнова; науч. ред.: Н. Д. Арутюнова, М. Л. Ковшова, С. Ю. Бочавер. М. : УРСС, 2014. С. 171--182.
+(@) Мороз Г. А. Структура составных числительных языков кавказа в типологической перспективе: сложение // Вестник Московского государственного гуманитарного университета им. М.А. Шолохова. Филологические науки. 2014. № 1. С. 85--100.
+(@) Мороз Г. А. Адыгские идиомы в Турции: от первых описаний до собственной письменности // Вестник РГГУ. Серия «Филологические науки. Языкознание»/ Московский лингвистический журнал. 2015. С. 44--60.
+(@) Кюсева М. В., Мороз Г. А. Лексика со значением формы и размера в Русском Жестовом Языке // В кн.: Специальные образовательные условия и качество профессиональной подготовки лиц с ограниченными возможностями здоровья. Новосибирский государственный технический университет, 2015. С. 120--127.
+(@) Ландер Ю. А., Аркадьев П. М., Мороз Г. А. Об исследовании бжедугского диалекта адыгейского языка // В кн.: Полевые исследования студентов РГГУ: Этнология, фольклористика, лингвистика. Вып. X / Под общ. ред.: П. М. Аркадьев, О. А. Казакевич, В. Л. Кляус, Н. А. Козлова, Ю. А. Ландер, Е. В. Левкиевская, А. Б. Мороз, Ю. В. Филиппов. М. : РГГУ, 2015. С. 183--201.
+(@) Багирокова И. Г., Ландер Ю. А., Мороз Г. А. Понятие основы и морфологический анализ адыгейской словоформы // В кн.: IV Международный симпозиум лингвистов-кавказоведов. Вопросы структуры основы и корня иберийско-кавказских языков. Тб. : [б.и.], 2015. С. 107--110.
+(@) Мороз Г. А. Адвербиальные конструкции временной дистрибуции в балто-славянских языках: ареальное и корпусное исследование // В кн.: Acta Linguistica Petropolitana. Труды Института лингвистических исследований РАН. (Том XII, часть 1) / Отв. ред.: Н. Казанский. Т. XII. Ч. 1. СПб. : Наука, 2016. С. 151--167.
+(@) Мороз Г. А. Cкорости речи носителей кубанского диалекта кабардино-черкесского языка: устный дискурс vs. чтения текста // Томский журнал лингвистических и антропологических исследований. 2017. №  2. С. 9--17.
+(@) Moroz G., Martynova A. Uvular consonants in Languages of the Caucasus, in: Historical Linguistics of the Caucasus: Book of abstracts. Paris, 12-14 April, 2017 / Историческое изучение языков Кавказа. Тезисы докладов Международной научной конференции. Париж, 12--14 апреля 2017 г. / Сост.: Т. А. Майсак. Махачкала : ИЯЛИ ДНЦ РАН, 2017. P. 150--153.
+(@) Мороз Г. А., Зибер И. А. К типологии систем сибилянтов: параметры вариативности [s] // В кн.: Четырнадцатая конференция по типологии и грамматике для молодых исследователей. Тезисы докладов. (Санкт-Петербург, 23--26 ноября 2017 г.). СПб. : Издательство Нестор-История, 2017. С. 113--115.
+(@) Багирокова И. Г., Ландер Ю. А., Мороз Г. А. О выражении множественных непрямых объектов в адыгейском глаголе // В кн.: Становление и развитие младописьменных языков. К 120-летию со дня рождения выдающегося языковеда, основоположника адыгейского языкознания Д.А. Ашхамафа: материалы Международной научной конференции (Майкоп, 21--23 июня 2017 г.). Майкоп : [б.и.], 2017. С. 23--27.
+(@)  Мороз Г. А., Романова К. И. 'Искать' и 'найти' в абазинском языке // В кн.: ЕВРика! Сборник статей о поисках и находках к юбилею Е.В. Рахилиной / Под общ. ред.: Д. А. Рыжова, Н. Р. Добрушина, А. А. Бонч-Осмоловская, А. С. Выренкова, М. В. Кюсева, Б. В. Орехов, Т. И. Резникова. М. : Лабиринт, 2018. С. 100--104.
+(@) Moroz G., Plaskovitskaya A. A., Rudnev P. Automatic detection of natural phonological classes in Russian Sign Language / NRU HSE. Series WP BRP "Linguistics". 2018. No. 74.
+(@) Kimmelman V., Klezovich A., Moroz G. IPSL: A Database of Iconicity Patterns in Sign Languages. Creation and Use, in: Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018). P. : European Language Resources Association (ELRA), 2018. Ch. 102. P. 4230--4234.
+(@) Verhees S., Moroz G. Time and time again: The evolution of ‘time’-nouns into temporal clause markers in three Daghestanian languages, in: Пятнадцатая Конференция по типологии и грамматике для молодых исследователей. Тезисы докладов (Санкт-Петербург, 22-24 ноября 2018 г.). СПб. : ИЛИ РАН, 2018. P. 212--214.
+(@) Мороз Г. А. Возможен ли отказ от выборки? Байесовский подход к типологическому исследованию // В кн.: Пятнадцатая Конференция по типологии и грамматике для молодых исследователей. Тезисы докладов (Санкт-Петербург, 22-24 ноября 2018 г.). СПб. : ИЛИ РАН, 2018. С. 91--94.
+(@) Мороз Г. А., Ферхеес Я. Х. Классы в Зило: экспериментальные данные андийского языка // В кн.: Малые языки в большой лингвистике. Сборник трудов конференции 2017. М. : Буки Веди, 2018. Гл. 22. С. 145--151.
+(@) Мороз Г. А. Маркирование актантов многоместных предикатов в польском языке // В кн.: Валентностные классы глаголов и их вариативность в разноструктурных языках / Отв. ред.: С. С. Сай. СПб. : Наука, 2018. С. 183--197.
+(@) Аркадьев П. М., Ландер Ю. А., Летучий А. Б., Мороз Г. А., Тестелец Я. Г. Типологически ориентированное описание абазинского языка: проспект исследований // Вестник Карачаево-Черкесского государственного университета. 2018. № 44. С. 95--100.
+(@)  Dobrushina N., Kozhukhar A. A., Moroz G. Gendered multilingualism in highland Daghestan: story of a loss // Journal of Multilingual and Multicultural Development. 2019. Vol. 40. No. 2. P. 115--132.
+(@) Мороз Г. А. Слоговая структура адыгейского языка // Вопросы языкознания. 2019. № 2. С. 82--95.
+(@)  Зибер И. А., Мороз Г. А. Исследование акустической вариативности s методом главных компонент // Вестник Новосибирского государственного университета. Серия: Лингвистика и межкультурная коммуникация. 2019. № 1. С. 49--64.
+(@) Moroz George, Verhees Samira Variability in noun classes assignment in Zilo Andi: experimental data // Iran and the Caucasus. 2019. V. 23. № 3. pp. 268--282.
+(@)  Moroz G. Phonology of Mehweb, in: The Mehweb language: Essays on phonology, morphology and syntax / Ed. by M. Daniel, N. Dobrushina, D. Ganenkov. Berlin : Language Science Press, 2019. doi Ch. 3. P. 22--34.
+(@) Arkhipov A., Daniel M., Belyaev O., Moroz G., Esling J. H. A reinterpretation of lower-vocal-tract articulations in Caucasian languages, in: Proceedings of the 19th International Congress of Phonetic Sciences, Melbourne, Australia 2019. Australasian Speech Science and Technology Association Inc., 2019. P. 1550--1554.
+(@) Mamonova T., Moroz G. VOT features of consonants in Abaza / NRU HSE. Series WP BRP "Linguistics". 2019. No. 91/LNG/2019.
+(@) Рошан Н., Мороз Г. А. Семантика некаузирирующих каузативов в андийском языке // В кн.: Языки и культуры народов России и мира. Махачкала : АЛЕФ, 2019. С. 348-352.
+(@) Moroz G. Length of East Caucasian subject indexes: a quantative research, in: Дурхъаси хазна. Сборник статей к 60-летию Р. О. Муталова / Под общ. ред.: Т. А. Майсак, Н. Р. Сумбатова, Я. Г. Тестелец. М. : Буки Веди, 2021. P. 258-282.
+(@) Dobrushina N., Moroz G. The speakers of minority languages are more multilingual // International Journal of Bilingualism. 2021, Vol. 25. No. 4. P. 921-938. https://doi.org/10.1177/13670069211023150
+(@) Seržant I. A., Moroz G. Universal attractors in language evolution provide evidence for the kinds of efficiency pressures involved // Humanities and Social Sciences Communications. 2022, 9, 58. https://doi.org/10.1057/s41599-022-01072-0
+(@) Koile E., Chechuro I., Moroz G., Daniel M. Geography and language divergence: The case of Andic languages // Plos One. 2022. Vol. 17. No. 5. http://doi.org/10.1371/journal.pone.0265460
+(@) Shiryaev A., Daniel M., Moroz G. Glottalized lateral in Rikvani Andi: an acoustic study // Phonetica. Vol. 79, No. 4, 2022, pp. 353-395. http://doi.org/10.1515/phon-2022-2024
+(@) Moroz G. Phonetic fieldwork research and experiments with the R package phonfieldwork, in: «…Вперёд и вверх по лестнице звучащей». Сборник статей к 80-летию Ольги Фёдоровны Кривновой / Под общ. ред.: И. М. Кобозева, К. П. Семёнова, А. Э. Костюк, Л. М. Захаров, Н. Д. Светозарова. М. : Буки Веди, 2023. P. 376-390.
+(@) Мороз Г. А., Земичева С. С. Причастия и деепричастия в русской устной речи: корпусный анализ // В кн.: Тезисы докладов 51-й Международной научной филологической конференции имени Людмилы Алексеевны Вербицкой. СПб.: Издательство Санкт-Петербургского университета, 2023. С. 694--695.
+(@) Coretta S., Casillas J. V., Roessig S., Franke M., Ahn B., Al-Hoorie A. H., Al-Tamimi J., Alotaibi N. E., AlShakhori M. K., Altmiller R. M., Arantes P., Athanasopoulou A., Baese-Berk M. M., Bailey G., Sangma C. B., Beier E. J., Benavides G. M., Benker N., Benson-Meyer E. P., Benway N. R., Berry G. M., Bing L., Bjorndahl C., Bolyanatz M., Braver A., Brown V. A., Brown A. M., Brugos A., Buchanan E. M., Butlin T., Buxó-Lugo A., Caillol C., Cangemi F., Carignan C., Carraturo S., Caudrelier T., Chodroff E., Cohn M., Cronenberg J., Crouzet O., Dagar E. L., Dawson C., Diantoro C. A., Dokovova M., Drake S., Du F., Dubuis M., Duême F., Durward M., Egurtzegi A., Elsherif M. M., Esser J., Ferragne E., Ferreira F., Fink L. K., Finley S., Foster K., Foulkes P., Franzke R., Frazer-McKee G., Fromont R., García C., Geller J., Grasso C. L., Greca P., Grice M., Grose-Hodge M. S., Gully A. J., Halfacre C., Hauser I., Hay J., Haywood R., Hellmuth S., Hilger A. I., Holliday N., Hoogland D., Huang Y., Hughes V., Isasa A. I., Ilchovska Z. G., Jeon H., Jones J., Junges M. N., Kaefer S., Kaland C., Kelley M. C., Kelly N. E., Kettig T., Khattab G., Koolen R., Krahmer E., Krajewska D., Krug A., Kumar A. A., Lander A., Lentz T. O., Li W., Li Y., Lialiou M., Lima R. M., Lo J. J., Otero J. C., Mackay B., MacLeod B., Mallard M., McConnellogue C. M., Moroz G., Murali M., Nalborczyk L., Nenadić F., Nieder J., Nikolić D., Nogueira F. G., Offerman H. M., Passoni E., Pélissier M., Perry S. J., Pfiffner A. M., Proctor M., Rhodes R., Rodríguez N., Roepke E., Röer J. P., Sbacco L., Scarborough R., Schaeffler F., Schleef E., Schmitz D., Shiryaev A., Sóskuthy M., Spaniol M., Stanley J. A., Strickler A., Tavano A., Tomaschek F., Tucker B. V., Turnbull R., Ugwuanyi K. O., Urrestarazu-Porta I., van de Vijver R., Van Engen K. J., van Miltenburg E., Wang B. X., Warner N., Wehrle S., Westerbeek H., Wiener S., Winters S., Wong S. G., Wood A., Wottawa J., Xu C., Zárate-Sández G., Zellou G., Zhang C., Zhu J., Roettger T. B. Multidimensional Signals and Analytic Flexibility: Estimating Degrees of Freedom in Human-Speech Analyses // Advances in Methods and Practices in Psychological Science. 2023. Vol. 6. No. 3
+(@) Мороз Г. А. Cкорость речи русского языка на основе билингвальных и диалектных устных корпусов, in: Состав науки: Сборник статей к юбилею Веры Исааковны Подлесской / Под ред.: Н. А. Коротаева, Н. Р. Сумбатовой. М.: Буки Веди, 2024. С. 366--388.
+(@) Moroz G., Polinsky M. Applicatives cross-linguistically: Features and distribution, in: Applicative Constructions in the World's Languages. Berlin : De Gruyter Mouton, 2024. Ch. 30. P. 1033-1044.
+(@) Creissels D., Zúñiga F., Moroz G. Languages examined or referred to in the present book, in: Applicative Constructions in the World's Languages. Berlin : De Gruyter Mouton, 2024. P. 61-74.
+(@) Moroz G. Make more empirically grounded linguistics using cross-linguistic example database // Journal of the Field Linguists Society, Russia. 2024. No. 1. Article 3.
+(@) Khachaturyan M., Moroz G., Mamy P. Do languages spoken in multilingual communities converge? A case study of reflexivity marking in Mano and Kpelle // Linguistics. 2024
+(@) Koile E., Moroz G. Detecting linguistic variation with geographic sampling // Journal of Linguistic Geography. 2024. P. 1-8.
+
+## Science popularization
+
+- Георгий Мороз (2018) Ни Yanny, ни Laurel,
+    - <nplus1.ru/blog/2018/05/16/acousticdress>
+- Сергей Кузнецов, Тарас Молотилин, Георгий Мороз (2019) Картография и хронология жадин,
+    - <nplus1.ru/material/2019/06/19/greedy>
+- Кристина Сойкина, Георгий Мороз (2019) Салат для большой страны,
+    - <nplus1.ru/material/2019/10/17/olivier-great-recipe>
+    
+## Translations
+
+- Филипович К. Да не знает левая рука твоя... // В кн.: Тени. М.: Знак, 2014. С. 43–62, ISBN: 978–5–7516–1228–3 (K. Filipowicz (1960) Niech nie wie lewica..., z książki „Biały ptak”, 48–65)
+- Колаковский Л. Война с вещами. // В кн.: Сказки из королевства Лайлонии для больших и маленьких. СПб.: Jaromir Hladik press. C. 94–103, ISBN: 978-5-6046601-5-7 (L. Kołakowski Wojna s rzeczami, ze zbioru 13 bajek z królestwa Lailonii dla dużych i małych)
