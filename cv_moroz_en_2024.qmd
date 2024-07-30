@@ -98,6 +98,8 @@ field linguistics, language documentation, phonetics, phonology, writing systems
     - <https://openedu.ru/course/hse/RLING/>
 - Инструментальная фонетика: компьютерные методы сбора и анализа данных
     - <https://www.coursera.org/learn/instrumental-phonetics>
+- Введение в анализ данных на R для гуманитарных и социальных наук
+    - <https://openedu.ru/course/hse/IDAR/>
 
 ## Student supervision
 
@@ -165,13 +167,15 @@ field linguistics, language documentation, phonetics, phonology, writing systems
 ## Science popularization
 
 - Георгий Мороз (2018) Ни Yanny, ни Laurel,
-    - <nplus1.ru/blog/2018/05/16/acousticdress>
-- Сергей Кузнецов, Тарас Молотилин, Георгий Мороз (2019) Картография и хронология жадин,
-    - <nplus1.ru/material/2019/06/19/greedy>
+    - <https://nplus1.ru/blog/2018/05/16/acousticdress>
+- Тарас Молотилин,  Георгий Мороз,  Илья Ферапонтов (2019) Картография и хронология жадин,
+    - <https://nplus1.ru/material/2019/06/19/greedy>
 - Кристина Сойкина, Георгий Мороз (2019) Салат для большой страны,
-    - <nplus1.ru/material/2019/10/17/olivier-great-recipe>
+    - <https://nplus1.ru/material/2019/10/17/olivier-great-recipe>
     
 ## Translations
 
-- Филипович К. Да не знает левая рука твоя... // В кн.: Тени. М.: Знак, 2014. С. 43–62, ISBN: 978–5–7516–1228–3 (K. Filipowicz (1960) Niech nie wie lewica..., z książki „Biały ptak”, 48–65)
-- Колаковский Л. Война с вещами. // В кн.: Сказки из королевства Лайлонии для больших и маленьких. СПб.: Jaromir Hladik press. C. 94–103, ISBN: 978-5-6046601-5-7 (L. Kołakowski Wojna s rzeczami, ze zbioru 13 bajek z królestwa Lailonii dla dużych i małych)
+- Филипович К. Да не знает левая рука твоя... // В кн.: Тени. М.: Знак, 2014. С. 43–62, ISBN: 978–5–7516–1228–3 
+    - K. Filipowicz (1960) Niech nie wie lewica..., z książki „Biały ptak”, 48–65
+- Колаковский Л. Война с вещами. // В кн.: Сказки из королевства Лайлонии для больших и маленьких. СПб.: Jaromir Hladik press. C. 94–103, ISBN: 978-5-6046601-5-7
+    - L. Kołakowski (1963) Wojna s rzeczami, ze zbioru 13 bajek z królestwa Lailonii dla dużych i małych
