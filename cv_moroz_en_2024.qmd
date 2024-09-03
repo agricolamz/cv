@@ -9,7 +9,7 @@ email:
   - agricolamz@gmail.com; 
   - agricolamz@hse.ru
 fontsize: 11pt
-mainfont: Brill
+mainfont: brill
 keep-tex: false
 github: agricolamz
 orcid: 0000-0003-1990-6083
@@ -23,7 +23,7 @@ editor_options:
 
 - **Russian State University for Humanities, Moscow**, specialist in Linguistics \hfill 2007 --- 2012
 - **Lomonosov Moscow State University**, doctoral studies (PhD) \hfill 2012 --- 2015
-- **HSE University** \hfill 2012 --- 2015
+- **HSE University** \hfill 2021
     - PhD on “Some questions of Circassian segmental and suprasegmental phonology and phonetics”
 
 ## Additional Education
