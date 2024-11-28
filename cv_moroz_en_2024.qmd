@@ -163,7 +163,8 @@ field linguistics, language documentation, phonetics, phonology, writing systems
 (@) Moroz G. Make more empirically grounded linguistics using cross-linguistic example database // Journal of the Field Linguists Society, Russia. 2024. No. 1. Article 3.
 (@) ◇ Khachaturyan M., Moroz G., Mamy P. Do languages spoken in multilingual communities converge? A case study of reflexivity marking in Mano and Kpelle //  Linguistics. 2024. Vol. 62. No. 5. P. 1225-1250.
 (@) ◇  Koile E., Moroz G. Detecting linguistic variation with geographic sampling // Journal of Linguistic Geography. 2024. Vol. 12. No. 1. P. 24-31. 
-(@) ◇ Khachaturyan M., Moroz G., Vydrin V., Konoshenko M. Valency patterns in Mande: Contact vs inheritance // Studies in Language. 2025.
+(@) ◇ Khachaturyan M., Moroz G., Vydrin V., Konoshenko M. Valency patterns in Mande: Contact vs inheritance // Studies in Language. 2025. Vol. 49. No. 1.
+(@)  Мороз Г. А. Онлайн-курс по анализу данных на R: лингвисты и все-все-все // В кн. : Будь в курсе цифровых гуманитарных исследований. / Отв. ред.: А. Ю. Володин. Красноярск: Сибирский федеральный университет, 2024. С. 182–191.
 
 ## Science popularization
 
