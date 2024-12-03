@@ -55,7 +55,7 @@ editor_options:
     - researcher; research grant No. 15-06-07434a to Yury Lander (primary researcher): Computer-based documentation of a polysynthetic language
 - RFFI [Russian Foundation for Basic Research] \hfill 2018 --- 2020
     - researcher; research grant No. 18-012-00852 to Michael Daniel (primary researcher): The Andi morphosyntax in a typological perspective
-- RSF [Russian Science Fondation] \hfill 2023 --- 2024
+- RSF [Russian Science Fondation] \hfill 2024 --- 2025
     - primary researcher; research grant No. 24-28-01097 to George Moroz (primary researcher): Variation in spoken corpora of dialectal and regional varieties of Russian
 
 ## Domains
