@@ -66,7 +66,7 @@ field linguistics, language documentation, phonetics, phonology, writing systems
 
 - Circassian languages (11) \hfill 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018
     - The Republic of Adygea, Krasnodar Krai, the Karachay-Cherkess Republic, the Kabardino-Balkar Republic
-- Dargwa, Andi, Rutul (14) \hfill 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2022, 2023
+- Dargwa, Andi, Rutul (15) \hfill 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2022, 2023, 2024
     - The Republic of Dagestan
 - Abaza (4) \hfill 2017, 2018, 2019, 2021
     - The Karachay-Cherkess Republic
