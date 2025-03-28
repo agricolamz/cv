@@ -165,6 +165,7 @@ field linguistics, language documentation, phonetics, phonology, writing systems
 (@) ◇  Koile E., Moroz G. Detecting linguistic variation with geographic sampling // Journal of Linguistic Geography. 2024. Vol. 12. No. 1. P. 24-31. 
 (@)  Мороз Г. А. Онлайн-курс по анализу данных на R: лингвисты и все-все-все // В кн. : Будь в курсе цифровых гуманитарных исследований. / Отв. ред.: А. Ю. Володин. Красноярск: Сибирский федеральный университет, 2024. С. 182–191.
 (@) ◇ Khachaturyan M., Moroz G., Vydrin V., Konoshenko M. Valency patterns in Mande: Contact vs inheritance // Studies in Language. 2025. Vol. 49. No. 2.
+(@) ◇ Naccarato C., Moroz G. Non-standard numeral constructions in L2 Russian: A corpus-based study // International Journal of Bilingualism. 2025.
 
 ## Science popularization
 
