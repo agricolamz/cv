@@ -103,8 +103,23 @@ field linguistics, language documentation, phonetics, phonology, writing systems
 
 ## Student supervision
 
-- 19 bachelor/master theses
-- 48 bachelor/master term papers
+```{r}
+#| include: false
+library(tidyverse)
+
+read_csv("students_supervision.csv") |> 
+  filter(type == "ВКР") |> 
+  nrow() ->
+  vkr
+
+read_csv("students_supervision.csv") |> 
+  filter(type == "КР") |> 
+  nrow() ->
+  kr
+```
+
+- `r vkr` bachelor/master theses
+- `r kr` bachelor/master term papers
 
 ## Hackathons
 
