@@ -91,6 +91,8 @@ field linguistics, language documentation, phonetics, phonology, writing systems
     - <https://CRAN.R-project.org/package=checkdown>
 - **lingglosses**: Moroz, G. (2022) lingglosses: Linguistic glosses and semi-automatic list of glosses creation.
     - <https://CRAN.R-project.org/package=lingglosses>
+- **RCaucTile**: Moroz, George (2025). RCaucTile: Tile Grid Maps for East Caucasian Languages.
+    - <https://CRAN.R-project.org/package=RCaucTile>
 
 ## Created online courses
 
