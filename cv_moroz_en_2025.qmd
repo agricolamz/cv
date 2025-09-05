@@ -185,6 +185,7 @@ read_csv("students_supervision.csv") |>
 (@) ◇ Khachaturyan M., Moroz G., Vydrin V., Konoshenko M. Valency patterns in Mande: Contact vs inheritance // Studies in Language. 2025. Vol. 49. No. 2.
 (@) ◇ Naccarato C., Moroz G. Non-standard numeral constructions in L2 Russian: A corpus-based study // International Journal of Bilingualism. 2025.
 (@) ◇ Khachaturyan, M., Moroz, G. and Mamy, P. Awareness of Grammatical Variability in Language Contact: The Case of Mano and Kpelle in Guinea. Journal of Sociolinguistics. 2025. https://doi.org/10.1111/josl.12705
+(@) ◇ Khachaturyan, M., Konoshenko, M., Moroz, G., Mamy, P., Carbo M. Variation in a Narrative Corpus of Mano and Kpelle: Contact-Induced or Not?. Studia Orientalia. 2025. Vol. 126, C. 35--59.
 
 ## Science popularization
 
