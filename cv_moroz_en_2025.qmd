@@ -184,7 +184,7 @@ read_csv("students_supervision.csv") |>
 (@) Ермолова М. В., Мороз Г. А. Отпричастные -*ши*- формы в двух псковских и одном смоленском говорах: сопоставление подсистем // Slověne. 2024. Т. 13, No 2. С. 157--183. DOI: 10.31168/2305-6754.2024.2.06
 (@) ◇ Khachaturyan M., Moroz G., Vydrin V., Konoshenko M. Valency patterns in Mande: Contact vs inheritance // Studies in Language. 2025. Vol. 49. No. 2.
 (@) ◇ Naccarato C., Moroz G. Non-standard numeral constructions in L2 Russian: A corpus-based study // International Journal of Bilingualism. 2025.
-(@) ◇ Khachaturyan, M., Moroz, G. and Mamy, P. Awareness of Grammatical Variability in Language Contact: The Case of Mano and Kpelle in Guinea. Journal of Sociolinguistics. 2025. https://doi.org/10.1111/josl.12705
+(@) ◇  Khachaturyan M., Moroz G., Mamy P. Awareness of Grammatical Variability in Language Contact: The Case of Mano and Kpelle in Guinea // Journal of Sociolinguistics. 2025. Vol. 29. No. 4. P. 268–284. https://doi.org/10.1111/josl.12705
 (@) ◇  Khachaturyan M., Konoshenko M., Moroz G., Mamy P., Carbo M.
 Variation in a Narrative Corpus of Mano and Kpelle: Contact-Induced or Not? // in : N’yng-dyuumgu, n’yng-ngafq: Festschrift for Ekaterina Gruzdeva. / Ed. by J. Sorjonen, R. Grünthal, S. Honkasalo, K. Kaheinen, S. Kittilä, R. Länsisalmi, M. Miestamo, E. Sandman, S. Santalahti, C. Yurayong. Vol. 126 Helsinki: Studia Orientalia, 2025. P. 35–59. 
 
