@@ -164,7 +164,7 @@ read_csv("students_supervision.csv") |>
 (@) ◇ Moroz George, Verhees Samira Variability in noun classes assignment in Zilo Andi: experimental data // Iran and the Caucasus. 2019. V. 23. № 3. pp. 268--282.
 (@) ◇ Moroz G. Phonology of Mehweb, in: The Mehweb language: Essays on phonology, morphology and syntax / Ed. by M. Daniel, N. Dobrushina, D. Ganenkov. Berlin : Language Science Press, 2019. doi Ch. 3. P. 22--34.
 (@) ◇ Arkhipov A., Daniel M., Belyaev O., Moroz G., Esling J. H. A reinterpretation of lower-vocal-tract articulations in Caucasian languages, in: Proceedings of the 19th International Congress of Phonetic Sciences, Melbourne, Australia 2019. Australasian Speech Science and Technology Association Inc., 2019. P. 1550--1554.
-(@) Mamonova T., Moroz G. VOT features of consonants in Abaza / NRU HSE. Series WP BRP "Linguistics". 2019. No. 91/LNG/2019.
+(@) Mamonova T., Moroz G. VOT features of consonants in Abaza // NRU HSE. Series WP BRP "Linguistics". 2019. No. 91/LNG/2019.
 (@) Рошан Н., Мороз Г. А. Семантика некаузирирующих каузативов в андийском языке // В кн.: Языки и культуры народов России и мира. Махачкала : АЛЕФ, 2019. С. 348--352.
 (@) Moroz G. Length of East Caucasian subject indexes: a quantative research, in: Дурхъаси хазна. Сборник статей к 60-летию Р. О. Муталова / Под общ. ред.: Т. А. Майсак, Н. Р. Сумбатова, Я. Г. Тестелец. М. : Буки Веди, 2021. P. 258--282.
 (@) ◇ Dobrushina N., Moroz G. The speakers of minority languages are more multilingual // International Journal of Bilingualism. 2021, Vol. 25. No. 4. P. 921--938. https://doi.org/10.1177/13670069211023150
@@ -181,12 +181,13 @@ read_csv("students_supervision.csv") |>
 (@) ◇ Khachaturyan M., Moroz G., Mamy P. Do languages spoken in multilingual communities converge? A case study of reflexivity marking in Mano and Kpelle //  Linguistics. 2024. Vol. 62. No. 5. P. 1225--1250.
 (@) ◇  Koile E., Moroz G. Detecting linguistic variation with geographic sampling // Journal of Linguistic Geography. 2024. Vol. 12. No. 1. P. 24--31. 
 (@)  Мороз Г. А. Онлайн-курс по анализу данных на R: лингвисты и все-все-все // В кн. : Будь в курсе цифровых гуманитарных исследований. / Отв. ред.: А. Ю. Володин. Красноярск: Сибирский федеральный университет, 2024. С. 182--191.
-(@) Ермолова М. В., Мороз Г. А. Отпричастные -*ши*- формы в двух псковских и одном смоленском говорах: сопоставление подсистем // Slověne. 2024. Т. 13, No 2. С. 157--183. DOI: 10.31168/2305-6754.2024.2.06
-(@) ◇ Khachaturyan M., Moroz G., Vydrin V., Konoshenko M. Valency patterns in Mande: Contact vs inheritance // Studies in Language. 2025. Vol. 49. No. 2.
+(@) Ермолова М. В., Мороз Г. А. Отпричастные -*ши*- формы в двух псковских и одном смоленском говорах: сопоставление подсистем // Slověne. 2024. Т. 13, № 2. С. 157--183. DOI: 10.31168/2305-6754.2024.2.06
+(@) Мороз Г. А., Зубкова В. Д., Анцупова А. В. Лексикографическая база данных словарей андийских языков // Лексикография цифровой эпохи. Сборник материалов II Международного симпозиума. Томск: Издательство Томского государственного университета, 2024, С. 285--289
+(@) ◇ Khachaturyan M., Moroz G., Vydrin V., Konoshenko M. Valency patterns in Mande: Contact vs inheritance // Studies in Language. 2025. Vol. 49. No. 3.
 (@) ◇ Naccarato C., Moroz G. Non-standard numeral constructions in L2 Russian: A corpus-based study // International Journal of Bilingualism. 2025.
-(@) ◇  Khachaturyan M., Moroz G., Mamy P. Awareness of Grammatical Variability in Language Contact: The Case of Mano and Kpelle in Guinea // Journal of Sociolinguistics. 2025. Vol. 29. No. 4. P. 268–284. https://doi.org/10.1111/josl.12705
-(@) ◇  Khachaturyan M., Konoshenko M., Moroz G., Mamy P., Carbo M.
-Variation in a Narrative Corpus of Mano and Kpelle: Contact-Induced or Not? // in : N’yng-dyuumgu, n’yng-ngafq: Festschrift for Ekaterina Gruzdeva. / Ed. by J. Sorjonen, R. Grünthal, S. Honkasalo, K. Kaheinen, S. Kittilä, R. Länsisalmi, M. Miestamo, E. Sandman, S. Santalahti, C. Yurayong. Vol. 126 Helsinki: Studia Orientalia, 2025. P. 35–59. 
+(@) ◇  Khachaturyan M., Moroz G., Mamy P. Awareness of Grammatical Variability in Language Contact: The Case of Mano and Kpelle in Guinea // Journal of Sociolinguistics. 2025. Vol. 29. No. 4. P. 268--284. https://doi.org/10.1111/josl.12705
+(@) ◇  Khachaturyan M., Konoshenko M., Moroz G., Mamy P., Carbo M. Variation in a Narrative Corpus of Mano and Kpelle: Contact-Induced or Not? // in : N’yng-dyuumgu, n’yng-ngafq: Festschrift for Ekaterina Gruzdeva. / Ed. by J. Sorjonen, R. Grünthal, S. Honkasalo, K. Kaheinen, S. Kittilä, R. Länsisalmi, M. Miestamo, E. Sandman, S. Santalahti, C. Yurayong. Vol. 126 Helsinki: Studia Orientalia, 2025. P. 35–59. 
+(@) Земичева С. С., Мороз Г. А., Наккарато К. Вариативность *годов* vs. *лет* в русских говорах: корпусное исследование // Вопросы языкознания. 2025. No 6.
 
 ## Science popularization
 
