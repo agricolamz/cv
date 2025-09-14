@@ -182,7 +182,7 @@ read_csv("students_supervision.csv") |>
 (@) ◇  Koile E., Moroz G. Detecting linguistic variation with geographic sampling // Journal of Linguistic Geography. 2024. Vol. 12. No. 1. P. 24--31. 
 (@)  Мороз Г. А. Онлайн-курс по анализу данных на R: лингвисты и все-все-все // В кн. : Будь в курсе цифровых гуманитарных исследований. / Отв. ред.: А. Ю. Володин. Красноярск: Сибирский федеральный университет, 2024. С. 182--191.
 (@) Ермолова М. В., Мороз Г. А. Отпричастные -*ши*- формы в двух псковских и одном смоленском говорах: сопоставление подсистем // Slověne. 2024. Т. 13, № 2. С. 157--183. DOI: 10.31168/2305-6754.2024.2.06
-(@) Мороз Г. А., Зубкова В. Д., Анцупова А. В. Лексикографическая база данных словарей андийских языков // Лексикография цифровой эпохи. Сборник материалов II Международного симпозиума. Томск: Издательство Томского государственного университета, 2024, С. 285--289
+(@) Мороз Г. А., Зубкова В. Д., Анцупова А. В. Лексикографическая база данных словарей андийских языков // Лексикография цифровой эпохи. Сборник материалов II Международного симпозиума. Томск: Издательство Томского государственного университета, 2024, С. 285--289.
 (@) ◇ Khachaturyan M., Moroz G., Vydrin V., Konoshenko M. Valency patterns in Mande: Contact vs inheritance // Studies in Language. 2025. Vol. 49. No. 3.
 (@) ◇ Naccarato C., Moroz G. Non-standard numeral constructions in L2 Russian: A corpus-based study // International Journal of Bilingualism. 2025.
 (@) ◇  Khachaturyan M., Moroz G., Mamy P. Awareness of Grammatical Variability in Language Contact: The Case of Mano and Kpelle in Guinea // Journal of Sociolinguistics. 2025. Vol. 29. No. 4. P. 268--284. https://doi.org/10.1111/josl.12705
@@ -202,5 +202,5 @@ read_csv("students_supervision.csv") |>
 
 - Филипович К. Да не знает левая рука твоя... // В кн.: Тени. М.: Знак, 2014. С. 43–62, ISBN: 978–5–7516–1228–3 
     - K. Filipowicz (1960) Niech nie wie lewica..., z książki „Biały ptak”, 48–65
-- Колаковский Л. Война с вещами. // В кн.: Сказки из королевства Лайлонии для больших и маленьких. СПб.: Jaromir Hladik press. C. 94–103, ISBN: 978-5-6046601-5-7
+- Колаковский Л. Война с вещами. // В кн.: Сказки из королевства Лайлонии для больших и маленьких. СПб.: Jaromir Hladik press, 2021. C. 94–103, ISBN: 978-5-6046601-5-7
     - L. Kołakowski (1963) Wojna s rzeczami, ze zbioru 13 bajek z królestwa Lailonii dla dużych i małych
