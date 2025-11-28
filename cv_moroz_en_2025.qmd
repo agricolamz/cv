@@ -183,11 +183,12 @@ read_csv("students_supervision.csv") |>
 (@)  Мороз Г. А. Онлайн-курс по анализу данных на R: лингвисты и все-все-все // В кн. : Будь в курсе цифровых гуманитарных исследований. / Отв. ред.: А. Ю. Володин. Красноярск: Сибирский федеральный университет, 2024. С. 182--191.
 (@) Ермолова М. В., Мороз Г. А. Отпричастные -*ши*- формы в двух псковских и одном смоленском говорах: сопоставление подсистем // Slověne. 2024. Т. 13, № 2. С. 157--183. DOI: 10.31168/2305-6754.2024.2.06
 (@) Мороз Г. А., Зубкова В. Д., Анцупова А. В. Лексикографическая база данных словарей андийских языков // Лексикография цифровой эпохи. Сборник материалов II Международного симпозиума. Томск: Издательство Томского государственного университета, 2024, С. 285--289.
-(@) ◇ Khachaturyan M., Moroz G., Vydrin V., Konoshenko M. Valency patterns in Mande: Contact vs inheritance // Studies in Language. 2025. Vol. 49. No. 3.
-(@) ◇ Naccarato C., Moroz G. Non-standard numeral constructions in L2 Russian: A corpus-based study // International Journal of Bilingualism. 2025.
+(@) ◇ Khachaturyan M., Moroz G., Vydrin V., Konoshenko M. Valency patterns in Mande: Contact vs inheritance // Studies in Language. 2025. Vol. 49. No. 4. P. 823--857. https://doi.org/10.1075/sl.23053.kha
 (@) ◇ Khachaturyan M., Moroz G., Mamy P. Awareness of Grammatical Variability in Language Contact: The Case of Mano and Kpelle in Guinea // Journal of Sociolinguistics. 2025. Vol. 29. No. 4. P. 268--284. https://doi.org/10.1111/josl.12705
 (@) ◇ Khachaturyan M., Konoshenko M., Moroz G., Mamy P., Carbo M. Variation in a Narrative Corpus of Mano and Kpelle: Contact-Induced or Not? // in : N’yng-dyuumgu, n’yng-ngafq: Festschrift for Ekaterina Gruzdeva. / Ed. by J. Sorjonen, R. Grünthal, S. Honkasalo, K. Kaheinen, S. Kittilä, R. Länsisalmi, M. Miestamo, E. Sandman, S. Santalahti, C. Yurayong. Vol. 126 Helsinki: Studia Orientalia, 2025. P. 35–59.
+(@) ◇ Naccarato C., Moroz G. Non-standard numeral constructions in L2 Russian: A corpus-based study // International Journal of Bilingualism. 2025.
 (@) Земичева С. С., Мороз Г. А., Наккарато К. Вариативность *годов* vs. *лет* в русских говорах: корпусное исследование // Вопросы языкознания. 2025. No 6. С. 7--34.
+(@) ◇ Yakovleva A., Koshelyuk N., Moroz G. Preposition drop in Russian spoken by Mari and Besermyan bilinguals // International Journal of Bilingualism. 2025.
 
 ## Science popularization
 
