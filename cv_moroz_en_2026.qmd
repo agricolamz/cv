@@ -192,6 +192,7 @@ read_csv("students_supervision.csv") |>
 (@) Khachaturyan M., Konoshenko M., Moroz G., Mamy P., Carbo M. Development of Narrative Competence in Mano, Mande // First Language. 2026. https://doi.org/10.1177/01427237261419544
 (@) Naccarato C., Moroz G. Negative existential constructions in bilingual Russian: A corpus-driven approach to variation // Linguistic Approaches to Bilingualism. 2026. https://doi.org/10.1075/lab.25019.nac
 (@)  Zubkova V., Moroz G., Naccarato C. Phonological Adaptation of Russian Borrowings in Avar-Andic Languages // International Journal of Bilingualism. 2026. https://doi.org/10.1177/13670069261432029
+(@) Ivanenko A., Kashleva K., Moroz G., Muravleva N. A corpus-driven approach to teaching academic Russian as a second language // Russian linguistics. 2026. Vol. 50. Article 7. https://doi.org/10.1007/s11185-026-09331-3
 
 ## Science popularization
 
