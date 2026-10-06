@@ -35,7 +35,7 @@ editor_options:
 ## Lecturing and research
 
 - **Linguistic Convergence Laboratory (HSE)** \hfill February 2018 --- present
-    - junior research fellow, research fellow, head of the laboratory (Data Analysis, Phonetics, Linguistic maps, Caucasian languages, Russian)
+    - junior research fellow, research fellow, head of the laboratory
 - **HSE University** \hfill September 2013 --- present
     - lecturer, senior lecturer, associate professor (Statistics, Data Analysis, R, \LaTeX, ELAN, Phonetics and Phonology, Polish, Writing systems et alia)
 - **Summer school on Data Analysis (in Tver Oblast)** \hfill August 2017 --- August 2020
@@ -60,7 +60,7 @@ editor_options:
 
 ## Domains
 
-field linguistics, language documentation, phonetics, phonology, writing systems, linguistic geography, languages of the Caucasus, computational linguistics, corpus linguistics, computer instruments for linguistic research, morphological transducers, low-resource NLP
+field linguistics, language documentation, languages of the Caucasus, computational linguistics, corpus linguistics, linguistic geography, computer instruments for linguistic research, morphological transducers, low-resource NLP, phonetics, phonology, writing systems
 
 ## Linguistic fieldtrips
 
@@ -142,7 +142,7 @@ read_csv("students_supervision.csv") |>
 (@) Moroz G. Stress in Mehweb: A Lexically Filled Optimality Theory Approach / NRU HSE. Series WP BRP "Linguistics". 2014. No. WP BRP 19/LNG/2015.
 (@) Мороз Г. А. Именное ударение в даргинских языках // В кн.: Актуальные вопросы теоретической и прикладной фонетики. Сборник статей к юбилею О.Ф. Кривновой. М. : БукиВеди, 2014. С. 245--269.
 (@) Мороз Г. А. Особенности систем числительных языков Кавказа // В кн.: Логический анализ языка: Числовой код в разных языках и культурах / Отв. ред.: Н. Д. Арутюнова; под общ. ред.: Н. Д. Арутюнова; науч. ред.: Н. Д. Арутюнова, М. Л. Ковшова, С. Ю. Бочавер. М. : УРСС, 2014. С. 171--182.
-(@) Мороз Г. А. Структура составных числительных языков кавказа в типологической перспективе: сложение // Вестник Московского государственного гуманитарного университета им. М.А. Шолохова. Филологические науки. 2014. № 1. С. 85--100.
+(@) Мороз Г. А. Структура составных числительных языков Кавказа в типологической перспективе: сложение // Вестник Московского государственного гуманитарного университета им. М.А. Шолохова. Филологические науки. 2014. № 1. С. 85--100.
 (@) Мороз Г. А. Адыгские идиомы в Турции: от первых описаний до собственной письменности // Вестник РГГУ. Серия «Филологические науки. Языкознание»/ Московский лингвистический журнал. 2015. С. 44--60.
 (@) Кюсева М. В., Мороз Г. А. Лексика со значением формы и размера в Русском Жестовом Языке // В кн.: Специальные образовательные условия и качество профессиональной подготовки лиц с ограниченными возможностями здоровья. Новосибирский государственный технический университет, 2015. С. 120--127.
 (@) Ландер Ю. А., Аркадьев П. М., Мороз Г. А. Об исследовании бжедугского диалекта адыгейского языка // В кн.: Полевые исследования студентов РГГУ: Этнология, фольклористика, лингвистика. Вып. X / Под общ. ред.: П. М. Аркадьев, О. А. Казакевич, В. Л. Кляус, Н. А. Козлова, Ю. А. Ландер, Е. В. Левкиевская, А. Б. Мороз, Ю. В. Филиппов. М. : РГГУ, 2015. С. 183--201.
